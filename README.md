@@ -2,7 +2,7 @@
 StitchDBR
 UDIS https://github.com/nie-lang/UnsupervisedDeepImageStitching
 
-MODEL
-Baidu https://pan.baidu.com/s/1s4MGSSL1NzZoMnP_pu6tSw?pwd=k4mr 提取码: k4mr
+MODEL + 143
+Baidu https://pan.baidu.com/s/18uD0g4RZMHQ0K1M0L023eQ?pwd=ystc 提取码: ystc
 
-Google https://drive.google.com/drive/folders/1PIFeu4gUayxDAzfeSlIJDCJlrQ-z3vDt?usp=share_link
+Google https://drive.google.com/drive/folders/1v5l9HFlz5DdA205v2iPqUBO99i0-HT01?usp=sharing

@@ -1,0 +1,2 @@
+GRID_H = 11
+GRID_W = 11

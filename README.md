@@ -8,7 +8,7 @@
 
 > **[Revisiting Unsupervised Image Stitching via Differential Boundary Rectification](https://arxiv.org/???)**
 >
-> [Yun Zhang](https://yunzhang-cuz.github.io), [Jialing Yang](), [Ruiyang Liang](), [Yao Xu](), [Lang Nie](https://nie-lang.github.io/), [Fang-Lue Zhang](), [Jinyu Xu](), [Xinyuan Zheng]()
+> [Yun Zhang](https://yunzhang-cuz.github.io), [Jialing Yang](), [Ruiyang Liang](), [Yao Xu](), [Lang Nie](https://nie-lang.github.io/), [Fang-Lue Zhang](https://fanglue.github.io), [Jinyu Xu](), [Xinyuan Zheng]()
 >
 
 

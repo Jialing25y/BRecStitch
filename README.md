@@ -50,7 +50,14 @@ python test_ft.py
 If you find BRecStitch useful for your research or applications, please cite our paper using the following BibTeX:
 
 ```bibtex
-  
+@article{zhang2026revisiting,
+  title={Revisiting unsupervised image stitching via efficient boundary rectification},
+  author={Zhang, Yun and Yang, Jialing and Liang, Ruiyang and Xu, Yao and Nie, Lang and Xu, Jinyu and Zhang, Fang-Lue and Zheng, Xinyuan},
+  journal={Computers \& Graphics},
+  pages={104615},
+  year={2026},
+  publisher={Elsevier}
+}
 ```
 
 ## Meta
